@@ -1,0 +1,29 @@
+<students>
+    <student>
+    <First_name>Lohitha</First_name>
+    <DOB>2023</DOB>
+        <Adsresses>
+            <Permanent_Address>
+                <Flat_No>219</Flat_No>
+                <City>hyderabad</hyderabad>
+            </Permanent_Address>
+            <Address>
+                <Flat_No>223</Flat_No>
+                <city> hyderabad</city>
+
+    </student>
+
+    <student>
+    <First_name>Rudramshu</First_name>
+    <DOB>2023</DOB>
+        <Adsresses>
+            <Permanent_Address>
+                <Flat_No>219</Flat_No>
+                <City>hyderabad</hyderabad>
+            </Permanent_Address>
+            <Address>
+                <Flat_No>223</Flat_No>
+                <city> hyderabad</city>
+
+    </student>
+</students>

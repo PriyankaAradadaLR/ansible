@@ -1,0 +1,21 @@
+- name: "Lohitha"
+  dob: "2023-01-01"
+  addresses:
+  - flatno:21
+    city:"hyderabad"
+    type:"Permanent"
+
+  - flatno:21
+    city:"hyderabad"
+    type:"temporary"
+
+- name: "Rudra"
+  dob: "2025-01-01"
+  addresses:
+  - flatno:21
+    city:"hyderabad"
+    type:"Permanent"
+
+  - flatno:21
+    city:"hyderabad"
+    type:"temporary"

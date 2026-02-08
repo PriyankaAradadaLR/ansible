@@ -1,0 +1,42 @@
+{
+    "students":
+    [
+        "student",
+        {
+            "First_Name":"Lohitha",
+            "DOB":2023,
+                "Addresses":[
+                        {
+                            "type":"permanent",
+                            "flat_no":121,
+                            "city":"hyderabad"
+                        },
+                        {
+                            "type":"temporary",
+                            "flat_no":121,
+                            "city":"hyderabad"
+                        }
+                ],
+                "skills":["java","python","cloud"]
+        },
+        "student",
+        {
+            "First_Name":"Rudra",
+            "DOB":2025,
+                "Addresses":[
+                        {
+                            "type":"permanent",
+                            "flat_no":121,
+                            "city":"hyderabad"
+                        },
+                        {
+                            "type":"temporary",
+                            "flat_no":121,
+                            "city":"hyderabad"
+                        }
+                ],
+                "skills":["java","python","cloud"]
+        }
+
+    ]
+}
